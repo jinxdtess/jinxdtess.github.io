@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  font-family: '微软雅黑'
+}
+.App {
+  display:flex;
+  justify-content: row;
+}
+.girl{
+ 
+  text-align:center;
+}
